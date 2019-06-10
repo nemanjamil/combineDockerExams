@@ -1,7 +1,7 @@
 # combineDockerExams
 
 **BE**
-- add in \BE\.env file that contains all data for connection to DB
+- add in BE/.env file that contains all data for connection to DB
 - call "composer install"
 
 **FE**
